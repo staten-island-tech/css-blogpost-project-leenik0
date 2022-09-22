@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(46, 28, 43);
+    font-family: 'Passion One', cursive;
+}
+.main-header{
+background-color: peachpuff;
+text-align: center;
+border: 3px solid rgb(168, 87, 81);
+padding: 20px;
+border-radius: 20px;
+}
+.number-3{
+    text-align: center;
+    background-color: peachpuff;
+    border: 3px solid rgb(168, 87, 81);
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.number-2{
+    text-align: center;
+    background-color: peachpuff;
+    border: 3px solid rgb(168, 87, 81);
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.number-1{
+    text-align: center;
+    background-color: peachpuff;
+    border: 3px solid rgb(168, 87, 81);
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.honorable-mentions{
+    text-align: center;
+    background-color: peachpuff;
+    border: 3px solid rgb(168, 87, 81);
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cat-img{
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+}
