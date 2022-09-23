@@ -15,10 +15,11 @@ border-radius: 20px;
     border: 5px solid rgb(168, 87, 81);
     border-radius: 20px;
     padding: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 50vw;
 }
 .number-2{
     text-align: center;
@@ -26,10 +27,11 @@ border-radius: 20px;
     border: 5px solid rgb(168, 87, 81);
     border-radius: 20px;
     padding: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 50vw;
 }
 .number-1{
     text-align: center;
@@ -37,10 +39,11 @@ border-radius: 20px;
     border: 5px solid rgb(168, 87, 81);
     border-radius: 20px;
     padding: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 50vw;
 }
 .honorable-mentions{
     text-align: center;
@@ -48,10 +51,11 @@ border-radius: 20px;
     border: 5px solid rgb(168, 87, 81);
     border-radius: 20px;
     padding: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 50vw;
 }
 .cat-img{
     margin: auto;
